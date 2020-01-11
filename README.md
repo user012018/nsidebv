@@ -1,66 +1,66 @@
 
 
 
-¦   index.html
-¦   README.md
-¦   
-+---_next
-¦   +---1578743347181
-¦   ¦   ¦   commons.js
-¦   ¦   ¦   main.js
-¦   ¦   ¦   manifest.js
-¦   ¦   ¦   
-¦   ¦   L---page
-¦   ¦           about.js
-¦   ¦           blog.js
-¦   ¦           blog_generate.js
-¦   ¦           blog_manual.js
-¦   ¦           contact.js
-¦   ¦           index.js
-¦   ¦           _error.js
-¦   ¦           
-¦   L---static
-¦       L---commons
-L---_source_
-    L---next-go
-        ¦   .babelrc
-        ¦   .gitignore
-        ¦   next.config.js
-        ¦   package-lock.json
-        ¦   package.json
-        ¦   README.md
-        ¦   routes.js
-        ¦   server.js
-        ¦   yarn.lock
-        ¦   
-        +---api
-        ¦   L---posts
-        ¦           index.js
-        ¦           
-        +---components
-        ¦   +---Footer
-        ¦   ¦       index.js
-        ¦   ¦       
-        ¦   +---Nav
-        ¦   ¦       index.js
-        ¦   ¦       
-        ¦   L---Post
-        ¦           index.js
-        ¦           Wrapper.js
-        ¦           
-        +---docs
-        ¦       next-go.png
-        ¦       
-        +---layouts
-        ¦       Main.js
-        ¦       Wrapper.js
-        ¦       
-        +---pages
-        ¦       about.js
-        ¦       contact.js
-        ¦       index.js
-        ¦       post.js
-        ¦       _document.js
-        ¦       
-        L---styles
-                global-styles.js
+    Â¦   index.html
+    Â¦   README.md
+    Â¦   
+    +---_next
+    Â¦   +---1578743347181
+    Â¦   Â¦   Â¦   commons.js
+    Â¦   Â¦   Â¦   main.js
+    Â¦   Â¦   Â¦   manifest.js
+    Â¦   Â¦   Â¦   
+    Â¦   Â¦   L---page
+    Â¦   Â¦           about.js
+    Â¦   Â¦           blog.js
+    Â¦   Â¦           blog_generate.js
+    Â¦   Â¦           blog_manual.js
+    Â¦   Â¦           contact.js
+    Â¦   Â¦           index.js
+    Â¦   Â¦           _error.js
+    Â¦   Â¦           
+    Â¦   L---static
+    Â¦       L---commons
+    L---_source_
+        L---next-go
+            Â¦   .babelrc
+            Â¦   .gitignore
+            Â¦   next.config.js
+            Â¦   package-lock.json
+            Â¦   package.json
+            Â¦   README.md
+            Â¦   routes.js
+            Â¦   server.js
+            Â¦   yarn.lock
+            Â¦   
+            +---api
+            Â¦   L---posts
+            Â¦           index.js
+            Â¦           
+            +---components
+            Â¦   +---Footer
+            Â¦   Â¦       index.js
+            Â¦   Â¦       
+            Â¦   +---Nav
+            Â¦   Â¦       index.js
+            Â¦   Â¦       
+            Â¦   L---Post
+            Â¦           index.js
+            Â¦           Wrapper.js
+            Â¦           
+            +---docs
+            Â¦       next-go.png
+            Â¦       
+            +---layouts
+            Â¦       Main.js
+            Â¦       Wrapper.js
+            Â¦       
+            +---pages
+            Â¦       about.js
+            Â¦       contact.js
+            Â¦       index.js
+            Â¦       post.js
+            Â¦       _document.js
+            Â¦       
+            L---styles
+                    global-styles.js
